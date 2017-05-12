@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSRangeComplementarySet_Example' do
+  pod 'NSRangeComplementarySet', :path => '../'
+
+  target 'NSRangeComplementarySet_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
