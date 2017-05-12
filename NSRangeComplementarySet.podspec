@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NSRangeComplementarySet'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Supports retrieve complementary set of range by exclude a range.'
 
 # This description is used to generate tags and improve search results.
